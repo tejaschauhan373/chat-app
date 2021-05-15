@@ -24,7 +24,7 @@
 
        ├── <u>`public`</u> HTML, JS, CSS files
        
-       ├── <u>`src`</u> template folder containing JS, CSS, HTML files
+       ├── <u>`src`</u> NodeJS APIs
 
        ├── `package.json` package manager file
 
@@ -46,7 +46,7 @@
        
        ├── `chat.html` chatting page
 
-       ├── `index.html` home page of chat
+       ├── `index.html` login page
     
     3. **/src**
 
