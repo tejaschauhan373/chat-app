@@ -1,12 +1,11 @@
 # Chat Application
+
+A simple chat application featuring multiple chat rooms built upon socket messaging concept.
 <br/>
 
 ## Deployed At:
 [tejasweatherapplication.herokuapp.com](https://tejasweatherapplication.herokuapp.com/)
 
-## Feature
-
-1. Multiple user can chat in room
 
 ## Setup the Project
 
